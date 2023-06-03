@@ -58,7 +58,7 @@ func (mycli *MyClient) myEventHandler(evt interface{}) {
 	// Handle event and access mycli.WAClient
 	switch v := evt.(type) {
 	case *events.Message:
-		if strings.Contains(v.Message.ExtendedTextMessage.GetText(), "@") {
+		if strings.Contains(v.Message.ExtendedTextMessage.GetText(), strings.Join([]string{"@", goDotEnvVariable("WHATSAPP_NUMBER")}, "")) {
 			SendTextAsReply(mycli.WAClient, v, strings.Join([]string{"Welcome to the main-net, ", v.Info.PushName, "\n", "If using in group, please quote reply my messages to initiate conversation."}, ""))
 			return
 		}
