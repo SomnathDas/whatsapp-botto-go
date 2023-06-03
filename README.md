@@ -51,8 +51,8 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-![Meet Valarie](https://github.com/SomnathDas/whatsapp-botto-go/blob/main/welcome/1.png)
-![Whatsapp-Botto-Go](https://github.com/SomnathDas/whatsapp-botto-go/blob/main/welcome/2.png)
+![Meet Valarie](https://github.com/SomnathDas/whatsapp-botto-go/blob/main/welcome/first.png)
+![Whatsapp-Botto-Go](https://github.com/SomnathDas/whatsapp-botto-go/blob/main/welcome/second.png)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
