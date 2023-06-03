@@ -7,7 +7,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/SomnathDas/errand">
-    <img src="https://www.svgrepo.com/download/303500/react-1-logo.svg" alt="Logo" width="80" height="80">
+    <img src="https://www.svgrepo.com/show/452214/go.svg" alt="Logo" width="80" height="80">
   </a>
 
 <h3 align="center">Whatsapp Botto Go</h3>
