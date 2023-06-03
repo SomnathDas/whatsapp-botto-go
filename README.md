@@ -105,6 +105,7 @@ However these requirements shouldn't differ a lot. Feel free to ask any query.
    * ELEVEN_LABS_VOICE_ID : [Pick your voice model](https://api.elevenlabs.io/v1/voices)
    * WHATSAPP_NUMBER : Example:= 9196XXXXXXXX for India, where 91 is the country code
    * AUDIO_FOLDER_ABSOLUTE_PATH : For example in Linux := ```"/home/somnath/whatsapp-botto-go/audio/"```
+   * MY PREFFERED VOICE MODEL "BELLA" : ELEVEN_LABS_VOICE_ID="EXAVITQu4vr4xnSDxMaL"
    
  4. Run the app by typing the following command in root directory of this project
     ```sh
