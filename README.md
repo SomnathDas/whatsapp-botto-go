@@ -54,6 +54,18 @@
 ![Meet Valarie](https://github.com/SomnathDas/whatsapp-botto-go/blob/main/welcome/first.png)
 ![Whatsapp-Botto-Go](https://github.com/SomnathDas/whatsapp-botto-go/blob/main/welcome/second.png)
 
+### Features
+
+- [x] Send Text Messages
+- [x] Send Text Message as Reply
+- [x] Send Audio Message as Reply
+- [x] Persist OpenAI Chat Context
+- [x] Jailbreak GPT
+- [x] Custom Personality
+
+-> One must remember, this chat bot remembers context in a streamlined manner, meaning even if you use this in a group, different messages by different user will be treated as multiple messages from same user.
+
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ### Built With
