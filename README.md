@@ -79,6 +79,16 @@ However these requirements shouldn't differ a lot. Feel free to ask any query.
 * Install Ffmpeg: [Download Page](https://ffmpeg.org/download.html)
 * Install libopus-dev [Download Page](https://opus-codec.org/downloads/)
 
+### Are Using Windows?
+I won't ask that why you are using windows for these kind of things?, but let's go the easier way!
+
+* Install Windows Subsystem for Linux [Installation Guide](https://learn.microsoft.com/en-us/windows/wsl/install)
+* Install go in Windows Subsystem for Linux
+* Install Ffmpeg in Windows Subsystem for Linux
+* Install libopus-dev in Windows Subsystem for Linux
+* Follow the below Installation instruction in Windows Subsystem for Linux (WSL)
+* After this while creating ```.env``` file, for ```AUDIO_FOLDER_ABSOLUTE_PATH="/home/<username>/whatsapp-botto-go/audio/"```, make sure to OMIT          ```//wsl.localhost/<your os name, for ex. Ubuntu>/``` part.
+
 ### Installation
 
 1. Clone the repo
